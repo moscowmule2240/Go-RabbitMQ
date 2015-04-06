@@ -31,3 +31,4 @@ sample golang rabbitmq
 
 ### requirements
     go get github.com/streadway/amqp
+    go get git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git
