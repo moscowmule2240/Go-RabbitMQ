@@ -15,7 +15,8 @@ sample golang rabbitmq
 
 ### admin page
     http://localhost:15672/
-    Username:guest Password:guest
+    Username:guest
+    Password:guest
 
 ## go
 
