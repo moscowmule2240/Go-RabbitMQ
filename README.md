@@ -30,5 +30,7 @@ sample golang rabbitmq
       export PATH=$GOPATH/bin:$PATH
 
 ### requirements
+#### amqp client
     go get github.com/streadway/amqp
+#### mqtt client
     go get git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git
